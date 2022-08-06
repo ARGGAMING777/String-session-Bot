@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/sajalrock/String-Session-Bot",
+  "repository": "https://github.com/ARGGAMING777/String-Session-Bot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": true,
-      "value": ""
+      "value": "@ARG_CHATS"
     }
   }
 }
